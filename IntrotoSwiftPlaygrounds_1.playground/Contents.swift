@@ -61,6 +61,7 @@ var numberTwo = 7
 
 var comparison = numberOne > numberTwo
 
+//Created a statement that compares the two var and assign them to a third statement
 //Completed part 1-6
 
 //Part 7 On your own:
@@ -81,5 +82,7 @@ var newvar3 = newvar1 == newvar2
 
 print(newvar3)
 
+//Completed part #7 on your own by creating a third variable that evualtes newvar1 and newvar2 that uses the sign == this is the equal to operator
 
 //Part 8 On your own: completed
+//Completed Making a new Github Desktop test
